@@ -1,4 +1,4 @@
-# Data-analytics-projects-portfolio
+# Data-analytics-projects-portfolio By Albin K A 
 A portfolio of beginner to intermediate data analytics projects using Power BI, Tableau, and SQL.
 ## Projects
 
