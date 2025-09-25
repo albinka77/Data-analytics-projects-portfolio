@@ -1,5 +1,5 @@
 # Data-Analytics-Projects-Portfolio By Albin K A 
-A portfolio of beginner to intermediate data analytics projects using Excel, Power BI, Tableau, and SQL.
+A portfolio of beginner to intermediate data analytics projects using Excel, Power BI, Tableau, SQL and Machine learning.
 ## Projects
 
 ## 💼 An Analysis of Career Trajectories | Excel | Advanced SQL 
