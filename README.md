@@ -1,6 +1,9 @@
-# Data-analytics-projects-portfolio By Albin K A 
-A portfolio of beginner to intermediate data analytics projects using Power BI, Tableau, and SQL.
+# Data-Analytics-Projects-Portfolio By Albin K A 
+A portfolio of beginner to intermediate data analytics projects using Excel, Power BI, Tableau, and SQL.
 ## Projects
+
+## 💼 An Analysis of Career Trajectories | Excel | Advance SQL 
+•	Conducted a comprehensive analysis of global career trajectories using Excel and SQL, uncovering trends in salary and experience across industries.
 
 ## 📈 Global Economic and Demographic Trends Analysis | Excel | SSMS | Power BI
 •	Analyzed global data on population, GDP, health, and country traits using Python and Power BI to extract insights and visualize development patterns.
