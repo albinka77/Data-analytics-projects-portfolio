@@ -2,7 +2,7 @@
 A portfolio of beginner to intermediate data analytics projects using Excel, Power BI, Tableau, and SQL.
 ## Projects
 
-## 💼 An Analysis of Career Trajectories | Excel | Advance SQL 
+## 💼 An Analysis of Career Trajectories | Excel | Advanced SQL 
 •	Conducted a comprehensive analysis of global career trajectories using Excel and SQL, uncovering trends in salary and experience across industries.
 
 ## 📈 Global Economic and Demographic Trends Analysis | Excel | SSMS | Power BI
