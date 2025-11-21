@@ -2,6 +2,11 @@
 A portfolio of beginner to intermediate data analytics projects using Excel, Power BI, Tableau, SQL and Machine learning.
 ## Projects
 
+## 🗃️ Capstone Project: E-Commerce Product Analysis | Python, pandas | BeautifulSoup
+•	Developed a full-cycle data science solution to analyze product trends and customer
+preferences for a growing e-commerce platform, driving insights to inform marketing and
+inventory strategies.
+
 ## 💼 An Analysis of Career Trajectories | Excel | Advanced SQL 
 •	Conducted a comprehensive analysis of global career trajectories using Excel and SQL, uncovering trends in salary and experience across industries.
 
